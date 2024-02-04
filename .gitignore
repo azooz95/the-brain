@@ -156,7 +156,7 @@ cython_debug/
 *.bkp
 *.dtmp
 *.txt
-*.excel
+*.xlsx
 *.csv
 
 # PyCharm
