@@ -1,0 +1,21 @@
+1698570891735	geckodriver	INFO	Listening on 127.0.0.1:50338
+1698570894809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Azooz95\\AppData\\Local\\Temp\\rust_mozprofileW5xEz7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698570895505	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698570895657	Marionette	INFO	Listening on port 50356
+WebDriver BiDi listening on ws://127.0.0.1:50339
+Read port: 50356
+1698570896029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50339/devtools/browser/cf819771-e7d7-4296-bfe5-cde13f36290a
+JavaScript warning: https://cdn.oaistatic.com/_next/static/chunks/pages/_app-bcf7965d814d1908.js, line 11: Script terminated by timeout at:
+42918/eK/<@https://cdn.oaistatic.com/_next/static/chunks/pages/_app-bcf7965d814d1908.js:11:897548
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=81da502a3f72ce18, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1698570925537	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=81da508e2924ce18, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=81da50c93a2ace18, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=81da51c2c81ace18, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1698570988625	Marionette	INFO	Stopped listening on port 50356
+Dynamically enable window occlusion 1
